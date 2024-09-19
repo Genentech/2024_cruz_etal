@@ -2,9 +2,9 @@
 
 This repo has the code to reproduce figures in 2024 Cruz et al
 
-Data has deposited in GEO under accession numbers:
+Data has been deposited in GEO under accession numbers:
 
-GSE243289 and X
+GSE243289 and GSE277297
 
 
 Versions used
