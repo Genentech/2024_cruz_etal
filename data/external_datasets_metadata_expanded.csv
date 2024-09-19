@@ -1,0 +1,68 @@
+,study,state,practical_annotation,concise_annotation,study_concise_annotation,tissue,author
+0,Schyns,baseline,Tissue CD64+ mononuclear phagocyte,control,Schyns_control,Lung,Schyns
+1,Schyns,baseline,CD64+ mononuclear phagocyte,control,Schyns_control,Lung,Schyns
+2,Schyns,baseline,Ly-6Chi lung monocyte,control,Schyns_control,Lung,Schyns
+3,Schyns,baseline,Ly-6Clo lung monocyte,control,Schyns_control,Lung,Schyns
+4,Dicks,baseline,Lung macrophages,control,Dicks_control,Lung,Dicks
+5,Travaglini_mouse,baseline,Lung,control,Travaglini_mouse_control,Lung,Travaglini_mouse
+6,ural,baseline,lung,control,Ural_control,Lung,Ural
+7,Chakarov,baseline,Lung2 Lyve1+,control,Chakarov_control,Lung,Chakarov
+8,Chakarov,baseline,Lung3 Lyve1+,control,Chakarov_control,Lung,Chakarov
+9,Chakarov,baseline,Lung1 Lyve1-,control,Chakarov_control,Lung,Chakarov
+10,Chakarov,baseline,Lung2 Lyve1-,control,Chakarov_control,Lung,Chakarov
+11,Chakarov,baseline,Lung1 AM,control,Chakarov_control,Lung,Chakarov
+12,Chakarov,baseline,Lung2 AM,control,Chakarov_control,Lung,Chakarov
+13,Chakarov,baseline,Lung3 AM,control,Chakarov_control,Lung,Chakarov
+14,Chakarov,baseline,Lung1 mono,control,Chakarov_control,Lung,Chakarov
+15,Chakarov,baseline,Lung2 mono,control,Chakarov_control,Lung,Chakarov
+16,Chakarov,baseline,Lung3 mono,control,Chakarov_control,Lung,Chakarov
+17,Chakarov,baseline,Fat1 Lyve1+,control,Chakarov_control,Lung,Chakarov
+18,Chakarov,baseline,Fat2 Lyve1+,control,Chakarov_control,Lung,Chakarov
+19,Chakarov,baseline,Fat3 Lyve1+,control,Chakarov_control,Lung,Chakarov
+20,Chakarov,baseline,Fat1 Lyve1-,control,Chakarov_control,Lung,Chakarov
+21,Chakarov,baseline,Fat2 Lyve1-,control,Chakarov_control,Lung,Chakarov
+22,Chakarov,baseline,Fat3 Lyve1-,control,Chakarov_control,Lung,Chakarov
+23,Chakarov,baseline,Skin4 Lyve1+,control,Chakarov_control,Lung,Chakarov
+24,Chakarov,baseline,Skin1 Lyve1+,control,Chakarov_control,Lung,Chakarov
+25,Chakarov,baseline,Skin3 Lyve1+,control,Chakarov_control,Lung,Chakarov
+26,Chakarov,baseline,Skin2 Lyve1-,control,Chakarov_control,Lung,Chakarov
+27,Chakarov,baseline,Skin3 Lyve1-,control,Chakarov_control,Lung,Chakarov
+28,Chakarov,baseline,Skin1 Lyve1-,control,Chakarov_control,Lung,Chakarov
+29,Chakarov,baseline,Heart3 Lyve1+,control,Chakarov_control,Lung,Chakarov
+30,Chakarov,baseline,Heart2 Lyve1+,control,Chakarov_control,Lung,Chakarov
+31,Chakarov,baseline,Heart1 Lyve1+,control,Chakarov_control,Lung,Chakarov
+32,Chakarov,baseline,Heart2 Lyve1-,control,Chakarov_control,Lung,Chakarov
+33,Chakarov,baseline,Heart1 Lyve1-,control,Chakarov_control,Lung,Chakarov
+34,Chakarov,baseline,Heart3 Lyve1-,control,Chakarov_control,Lung,Chakarov
+35,Chakarov,baseline,Heart4 Lyve1-,control,Chakarov_control,Lung,Chakarov
+36,Chakarov,baseline,Interstitial Macrophages,control,Chakarov_control,Lung,Chakarov
+37,IP,baseline,"whole lung,RW",control,Cruz_N2_control,Lung,Cruz_N2
+38,IP,N2,"whole lung,N2",N2_systemic,Cruz_N2_N2_systemic,Lung,Cruz_N2
+46,IT,N2_IT_baseline,Intratracheal_RW,control,Nitschke_IT_control,Lung,Nitschke_IT
+47,IT,N2_IT,Intratracheal_N2,N2_IT,Nitschke_IT_N2_IT,Lung,Nitschke_IT
+48,2019_Strunz,baseline,PBS,control,Strunz_control,Lung,Strunz
+49,2019_Strunz,Injury,d7,bleomycin_d7,Strunz_bleomycin_d7,Lung,Strunz
+50,2019_Strunz,Injury,d3,bleomycin_d3,Strunz_bleomycin_d3,Lung,Strunz
+51,2019_Strunz,Injury,d10,bleomycin_d10,Strunz_bleomycin_d10,Lung,Strunz
+52,2019_Strunz,Injury,d14,bleomycin_d14,Strunz_bleomycin_d14,Lung,Strunz
+53,2019_Strunz,Injury,d21,bleomycin_d21,Strunz_bleomycin_d21,Lung,Strunz
+54,2019_Strunz,Injury,d28,bleomycin_d28,Strunz_bleomycin_d28,Lung,Strunz
+55,peyser,baseline,saline,control,Peyser_control,Lung,Peyser
+56,peyser,Injury,bleomycin,bleomycin_d10,Peyser_bleomycin_d10,Lung,Peyser
+57,peyser,Injury,bleomycin+nintedanib,bleomycin+nintedanib_d10,Peyser_bleomycin+nintedanib_d10,Lung,Peyser
+60,asbestos,baseline,GSM3639113,control,Joshi_control,Lung,Joshi
+61,asbestos,Injury,GSM3639114,asbestos,Joshi_asbestos,Lung,Joshi
+64,osteopontin,baseline_Diet,standard diet,control,Remmerie_control,Liver,Remmerie
+65,osteopontin,Diet,western diet,western diet,Remmerie_western diet,Liver,Remmerie
+83,IL17,baseline,saline,control,Sommerfeld_control,Skeletal muscle,Sommerfeld
+84,IL17,Injury,urinary bladder matrix,injury_bladder_matrix,Sommerfeld_injury_bladder_matrix,Skeletal muscle,Sommerfeld
+85,IL17,Injury,polycaprolactone,injury_polycaprolactone,Sommerfeld_injury_polycaprolactone,Skeletal muscle,Sommerfeld
+97,LAM,baseline_Diet,"6.0,Normal chow",control,Jaitin_control,Adipose,Jaitin
+98,LAM,Diet,"6.0,High-fat diet",HFD,Jaitin_HFD,Adipose,Jaitin
+99,LAM,baseline_Diet,"12.0,Normal chow",control,Jaitin_control,Adipose,Jaitin
+100,LAM,Diet,"12.0,High-fat diet",HFD,Jaitin_HFD,Adipose,Jaitin
+101,LAM,baseline_Diet,"18.0,Normal chow",control,Jaitin_control,Adipose,Jaitin
+102,LAM,Diet,"18.0,High-fat diet",HFD,Jaitin_HFD,Adipose,Jaitin
+109,cardiac,baseline,Sham_day7_TIP_S2,control,Farbehi_control,Heart,Farbehi
+110,cardiac,Injury,MI_day3_TIP_S2,MI_d3,Farbehi_MI_d3,Heart,Farbehi
+111,cardiac,Injury,MI_day7_TIP_S2,MI_d7,Farbehi_MI_d7,Heart,Farbehi

@@ -1,0 +1,15 @@
+index,study_annotation,practical_annotation,state,organism,author,tissue
+Chakarov,cell.type,cell.type,baseline,mouse,Chakarov,Lung
+Schyns,meta_cellType,meta_cellType,baseline,mouse,Schyns,Lung
+Travaglini_mouse,free_annotation,tissue,baseline,mouse,Travaglini_mouse,Lung
+Dicks,meta_sourceName,meta_sourceName,baseline,mouse,Dicks,Lung
+ural,meta_sourceName,meta_sourceName,baseline,mouse,Ural,Lung
+LAM,clusterID,"meta_timePoint,meta_treatmentDiet",Diet,mouse,Jaitin,Adipose
+osteopontin,clusterName,meta_diet,Diet,mouse,Remmerie,Liver
+cardiac,clusterID,meta_sourceName,disease,mouse,Farbehi,Heart
+IL17,clusterID,meta_treatment,Injury,mouse,Sommerfeld,Skeletal muscle
+asbestos,batch,batch,Injury,mouse,Joshi,Lung
+peyser,pcaTSNE_clusters_0.4,treatment,Injury,mouse,Peyser,Lung
+2019_Strunz,cell.type,grouping,Injury,mouse,Strunz,Lung
+IP,Cell_type,"sample,treatment",N2,mouse,Cruz_N2,Lung
+IT,Sample,assignment,N2_IT,mouse,Nitschke_IT,Lung
